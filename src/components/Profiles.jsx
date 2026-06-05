@@ -36,30 +36,30 @@ export default function Profiles() {
     {
       name: 'GitHub',
       icon: <GithubIcon className="w-8 h-8 text-[#14b8a6]" />,
-      username: '@aaravsharma',
+      username: '@kaushikp143',
       desc: 'Source code for embedded firmware, ROS2 control libraries, and React frontend monitoring dashboards.',
-      link: 'https://github.com/aaravsharma',
+      link: 'https://www.linkedin.com/in/kaushik-pressanna-98542433b/',
     },
     {
       name: 'LinkedIn',
       icon: <LinkedinIcon className="w-8 h-8 text-[#c084fc]" />,
-      username: 'aarav-sharma-ece',
+      username: 'kaushik-pressanna-98542433b',
       desc: 'Connect for internship opportunities, research collaborations, and professional updates in embedded IoT.',
-      link: 'https://linkedin.com/in/aarav-sharma-ece',
+      link: 'https://linkedin.com/in/kaushik-pressanna-98542433b/',
     },
     {
       name: 'Hackster.io',
       icon: <Cpu className="w-8 h-8 text-amber-400" />,
-      username: 'aarav-ece-hacks',
+      username: 'kaushikp143',
       desc: 'Complete system build walkthroughs, wiring schematics, and component lists for hardware creations.',
-      link: 'https://hackster.io/aarav-ece-hacks',
+      link: 'https://hackster.io/kaushikp143',
     },
     {
       name: 'LeetCode',
       icon: <Award className="w-8 h-8 text-orange-400" />,
-      username: 'aarav_sharma_99',
+      username: 'kaushikp143',
       desc: '350+ programming problems solved. Focus on memory optimization and algorithmic efficiency in C++ & JS.',
-      link: 'https://leetcode.com/aarav_sharma_99',
+      link: 'https://leetcode.com/kaushikp143',
     },
   ];
 

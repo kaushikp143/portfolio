@@ -77,7 +77,7 @@ export default function Contact() {
                   <h4 className="text-sm text-slate-400 font-mono">Email</h4>
                   {/* Masked display of email to comply with secure coding standards */}
                   <span className="text-slate-200 font-medium hover:text-teal-400 transition-colors">
-                    aarav.sharma.ece [at] gmail [dot] com
+                    Kaushikpressanna [at] gmail [dot] com
                   </span>
                 </div>
               </div>

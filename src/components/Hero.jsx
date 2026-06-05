@@ -63,7 +63,7 @@ export default function Hero() {
         <h1 className="text-5xl md:text-8xl font-bold tracking-tight text-white leading-[1.08] mb-6 select-none">
           Hi, I'm{' '}
           <span className="relative inline-block bg-[#008080]/20 border border-[#008080]/40 text-[#14b8a6] px-4 py-1 rounded-md text-glow-teal leading-none">
-            Aarav
+            Kaushik
           </span>{' '}
           Sharma
           <br />
@@ -111,7 +111,7 @@ export default function Hero() {
             href="#resume"
             onClick={(e) => {
               e.preventDefault();
-              alert('Resume download is simulated! In a production build, this would download Aarav_Sharma_Resume.pdf');
+              alert('Resume download is simulated! In a production build, this would download Kaushik_Pressanna_Resume.pdf');
             }}
             className="flex items-center space-x-2 bg-slate-900/60 backdrop-blur-sm border border-slate-700/60 hover:border-slate-500 hover:bg-slate-800/80 text-slate-200 font-medium px-8 py-3.5 rounded-full text-base transition-all duration-300 transform hover:-translate-y-0.5"
           >
